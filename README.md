@@ -1,6 +1,6 @@
-# 🚖 Uber Fares Dataset Analysis – Power BI Project
+#  Uber Fares Dataset Analysis – Power BI Project
 
-## 📚 Course Information
+##  Course Information
 
 - *Course Title*: Introduction to Big Data Analytics (INSY 8413)  
 - *Instructor*: Eric Maniraguha  
@@ -11,13 +11,13 @@
 
 ---
 
-## 📝 Introduction
+##  Introduction
 
 This project focuses on analyzing the Uber Fares Dataset to extract insights into pricing patterns, rider behavior, and time-based trends. By using Python for data preparation and Power BI for visualization, the project demonstrates key concepts of data wrangling, exploratory data analysis (EDA), feature engineering, and interactive dashboard design.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Understand and clean a real-world transportation dataset  
 - Explore fare and trip-related patterns using Python and Power BI  
@@ -62,7 +62,7 @@ This project focuses on analyzing the Uber Fares Dataset to extract insights int
 
 ---
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 - *Python* (Pandas, Seaborn, Matplotlib) – for data preparation and EDA  
 - *Power BI Desktop* – for data visualization and interactive dashboard  
@@ -70,23 +70,23 @@ This project focuses on analyzing the Uber Fares Dataset to extract insights int
 - *Kaggle* – for open-source dataset access
 
 ---
-## 📷 Screenshots (Upload Required)
+##  Screenshots (Upload Required)
 
-> 🖼️ *Upload your screenshots to the screenshots/ folder in your GitHub repo.*  
+>  *Upload your screenshots to the screenshots/ folder in your GitHub repo.*  
 > Format: .png or .jpg. Use descriptive names like fare_distribution.png.
 
-### 🔸 Power BI Dashboard Overview
+###  Power BI Dashboard Overview
 
 ![Dashboard Overview](screenshot/dashboard.PNG)
 
-### 🔸 Fare Distribution Histogram
+###  Fare Distribution Histogram
 
 ![Fare Distribution](screenshots/fare_distribution.png)
 
-### 🔸 Fare vs Distance Scatter Plot
+###  Fare vs Distance Scatter Plot
 
 ![Fare vs Distance](screenshot/distance.PNG)
 
-### 🔸 Hourly Ride Trends
+###  Hourly Ride Trends
 
-![Time Analysis](screenshots/time_analysis.png)
+![Time Analysis](screenshot/hours.PNG)
