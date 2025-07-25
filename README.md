@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project presents a comprehensive analysis of Uber ride fares dataset, focusing on understanding fare patterns, ride durations, and key operational metrics that drive the ride-sharing economy. As part of the Introduction to Big Data Analytics course (INSY 8413), this analysis aims to extract actionable insights from real-world transportation data to support data-driven decision-making in the mobility sector.
+This project presents a comprehensive analysis of Uber ride fares dataset, focusing on understanding fare patterns, ride durations, and key operational metrics that drive the ride-sharing economy. As part of the Introduction to Big Data Analytics course , this analysis aims to extract actionable insights from real-world transportation data to support data-driven decision-making in the mobility sector.
 
 ### Project Objectives
 
