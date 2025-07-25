@@ -1,14 +1,5 @@
 #  Uber Fares Dataset Analysis – Power BI Project
 
-##  Course Information
-
-- *Course Title*: Introduction to Big Data Analytics (INSY 8413)  
-- *Instructor*: Eric Maniraguha  
-- *Institution*: Adventist University of Central Africa (AUCA)  
-- *Project Type*: Analytical Data Visualization using Power BI  
-- *Dataset Source*: [Kaggle – Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)  
-- *Submission Date*: 25 July 2025  
-
 ---
 
 ##  Introduction
@@ -27,7 +18,7 @@ This project focuses on analyzing the Uber Fares Dataset to extract insights int
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 ### 1. Data Acquisition
 - Downloaded dataset from Kaggle
@@ -70,10 +61,7 @@ This project focuses on analyzing the Uber Fares Dataset to extract insights int
 - *Kaggle* – for open-source dataset access
 
 ---
-##  Screenshots (Upload Required)
-
->  *Upload your screenshots to the screenshots/ folder in your GitHub repo.*  
-> Format: .png or .jpg. Use descriptive names like fare_distribution.png.
+##  Screenshots 
 
 ###  Power BI Dashboard Overview
 
@@ -81,7 +69,7 @@ This project focuses on analyzing the Uber Fares Dataset to extract insights int
 
 ###  Fare Distribution Histogram
 
-![Fare Distribution](screenshots/fare_distribution.png)
+![Fare Distribution](screenshot/fare_distribution.png)
 
 ###  Fare vs Distance Scatter Plot
 
