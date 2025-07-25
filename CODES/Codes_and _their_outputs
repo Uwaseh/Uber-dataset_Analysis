@@ -1,0 +1,7 @@
+```python
+  import pandas as pd
+  data = pd.read_csv("uber.csv")
+  data
+  ```
+  ## Display Data
+  ![diagram].(CODES/https://github.com/Uwaseh/Uber-dataset_Analysis/blob/936f5028e25aa9f74c41e755134bfa8116883226/screenshot/data.JPG).
