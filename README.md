@@ -77,7 +77,7 @@ This project focuses on analyzing the Uber Fares Dataset to extract insights int
 
 ### 🔸 Power BI Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshot/dashboard.PNG)
 
 ### 🔸 Fare Distribution Histogram
 
@@ -85,7 +85,7 @@ This project focuses on analyzing the Uber Fares Dataset to extract insights int
 
 ### 🔸 Fare vs Distance Scatter Plot
 
-![Fare vs Distance](screenshots/fare_vs_distance.png)
+![Fare vs Distance](screenshot/distance.PNG)
 
 ### 🔸 Hourly Ride Trends
 
