@@ -1,8 +1,1 @@
-## data
 
-- import pandas as pd
-- data = pd.read_csv("uber.csv")
-
----
-
-![Dashboard Overview](screenshot/powerBI.PNG)
