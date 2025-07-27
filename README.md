@@ -25,9 +25,13 @@ This project focuses on analyzing the Uber Fares Dataset to extract insights int
 - Imported into Python using Pandas for inspection and preprocessing
 
 ### 2. Data Cleaning
-- Removed missing and erroneous entries  
-- Converted date-time fields to proper formats  
-- Saved cleaned data as uber_cleaned.csv
+- Dropped all rows with missing (null) values using dropna() to ensure data consistency
+  
+-Assigned the cleaned data to a new DataFrame called data_clearing
+
+-Ensured the resulting dataset had only complete and usable records
+
+-Prepared the cleaned dataset for further analysis and export to Power BI
 
 ### 3. Feature Engineering
 - Extracted hour, day, month, and weekday from timestamps  
@@ -46,9 +50,12 @@ This project focuses on analyzing the Uber Fares Dataset to extract insights int
 - Imported enhanced dataset into Power BI Desktop  
 - Built:
   - Histogram of fare amounts  
-  - Scatter plot: fare vs distance  
-  - Line charts: hourly & daily ride trends  
-  - Map visualizations (if coordinates available)  
+  -  Bar charts: Fare by hour, day of week, and month
+  -  Donut chart: Fare distribution by peak vs off-peak hours
+
+  - KPI cards: Total fare, average distance, total passengers
+
+  - Interactive slicers: hour, day, month, peak status
 - Applied slicers, filters, and interactive drilldowns
 
 ---
