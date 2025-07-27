@@ -2,7 +2,9 @@
 
 ---
 
-##  Introduction
+#   NAME: UWASE HONETTE   ,                                                       ID:27628
+
+Introduction
 
 This project focuses on analyzing the Uber Fares Dataset to extract insights into pricing patterns, rider behavior, and time-based trends. By using Python for data preparation and Power BI for visualization, the project demonstrates key concepts of data wrangling, exploratory data analysis (EDA), feature engineering, and interactive dashboard design.
 
